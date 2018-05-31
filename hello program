@@ -1,0 +1,4 @@
+name=input("Enter your Name?:")
+y = "Hello {}. How are you?"
+z = y.format(name)
+print (z)
